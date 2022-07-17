@@ -1,4 +1,2 @@
 # MyTestCode
-test
-
-test
+This is my test github project
